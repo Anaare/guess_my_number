@@ -1,6 +1,7 @@
 
 # Number Guessing Game
 
+### **Netlify**: https://main--guess-anas-number.netlify.app/
 
 ## **Description**
 
