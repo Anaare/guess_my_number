@@ -2,10 +2,14 @@
 Number Guessing Game
 
 
-**Description**
+## **Description**
+
+
 This is a simple number guessing game built with HTML, CSS, and JavaScript. The game randomly generates a number between 1 and 20, and the player has to guess that number within a limited number of tries.
 
-**How to Play**
+## **How to Play**
+
+
 Start Guessing: The game starts with 20 tries. Enter a number between 1 and 20 in the input field provided and click the "Check" button or press Enter.
 
 **Hints**: After each guess, the game provides hints whether the correct number is higher or lower than the guessed number.
