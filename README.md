@@ -10,7 +10,7 @@ This is a simple number guessing game built with HTML, CSS, and JavaScript. The 
 ## **How to Play**
 
 
-Start Guessing: The game starts with 20 tries. Enter a number between 1 and 20 in the input field provided and click the "Check" button or press Enter.
+**Start Guessing**: The game starts with 20 tries. Enter a number between 1 and 20 in the input field provided and click the "Check" button or press Enter.
 
 **Hints**: After each guess, the game provides hints whether the correct number is higher or lower than the guessed number.
 
@@ -22,13 +22,13 @@ Start Guessing: The game starts with 20 tries. Enter a number between 1 and 20 i
 
 **Restart**: To play again, click the "Play Again" button. This will reset the game with a new random number.
 
-Files
+## Files
 index.html: Contains the structure of the webpage.
 style.css: Contains the styles for the webpage.
 script.js: Contains the JavaScript logic for the game.
 
-Dependencies
+## Dependencies
 No external dependencies are required to run this game. It runs purely on vanilla JavaScript.
 
-Credits
+## Credits
 This game was created by Ana Arevadze.
