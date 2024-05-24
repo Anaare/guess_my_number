@@ -1,5 +1,7 @@
 # guess_my_number
 Number Guessing Game
+
+
 **Description**
 This is a simple number guessing game built with HTML, CSS, and JavaScript. The game randomly generates a number between 1 and 20, and the player has to guess that number within a limited number of tries.
 
